@@ -77,7 +77,6 @@ I'm a Full Stack Developer with 4+ years of experience specializing in frontend 
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
 
 ## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=markdinglasa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=markdinglasa&theme=dark&hide_border=false)<br/>
 
 
